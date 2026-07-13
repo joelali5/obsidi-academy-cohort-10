@@ -5,16 +5,16 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.bptn</groupId>
-  <artifactId>academy-java</artifactId>
+  <artifactId>obsidi-academy-cohort-10</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <name>academy-java</name>
+  <name>obsidi-academy-cohort-10</name>
   <description>A simple academy-java.</description>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
   <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>21</maven.compiler.source>
     <maven.compiler.target>21</maven.compiler.target>
   </properties>
