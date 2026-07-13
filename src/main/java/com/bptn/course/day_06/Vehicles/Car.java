@@ -1,4 +1,4 @@
-package com.bptn.course.day_06_Vehicles;
+package com.bptn.course.day_06.Vehicles;
 
 public class Car extends Vehicle implements FuelConsuming {
 	
