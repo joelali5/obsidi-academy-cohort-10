@@ -1,4 +1,4 @@
-package com.bptn.course.day_06._MethodOverridingDemo;
+package com.bptn.course.day_06.MethodOverridingDemo;
 
 public class MethodOverridingDemo {
 
